@@ -1,6 +1,6 @@
 ---
 layout: index
-topic: An opinionated control repository and steps for setting it up in PE
+title: An opinionated control repository and steps for setting it up in PE
 ---
 
 Table of contents
